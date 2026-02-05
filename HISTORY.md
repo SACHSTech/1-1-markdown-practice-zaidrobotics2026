@@ -1,58 +1,58 @@
-The History of Hip Hop Music  
+## The History of Hip Hop Music  
 
-1. Introduction  
+### 1. Introduction  
 Hip hop is more than just a genre of music. It is a cultural movement that began in the Bronx, New York City in the early 1970s. It encompasses four main elements:  
-MCing (Rapping)  
-DJing (Turntablism)  
-Breakdancing (B-boying)  
-Graffiti Art  
+* **MCing (Rapping)**
+* **DJing (Turntablism)**
+* **Breakdancing (B-boying)**
+* **Graffiti Art**
 
 Together, these four pillars shaped a global cultural force. Today, hip hop is one of the most influential musical genres worldwide, though many argue that its commercial evolution has diluted some of its original authenticity.  
 
-2. The Birth of Hip Hop (1970s)  
+### 2. The Birth of Hip Hop (1970s)  
 
-DJ Kool Herc (image link: https://i.imgur.com/weXCosl.jpg)
+![DJ Kool Herc](https://i.imgur.com/weXCosl.jpg)
 
 Hip hop’s roots can be traced back to block parties in the Bronx. DJs such as Kool Herc pioneered the technique of isolating and looping the breakbeat from funk and soul records.  
 
 This extended drum section became the foundation for MCs to hype up the crowd.  
 
-“Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D 
+> “Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D 
 
-Key Figures of the 1970s:  
-1. Kool Herc – credited with extending the break. (video link: https://youtu.be/10C-Q3NIlzU)  
-2. Afrika Bambaataa – spread hip hop culture through the Universal Zulu Nation. (video link: https://youtu.be/9J3lwZjHenA)  
-3. Grandmaster Flash – innovated DJ techniques like scratching and cutting. (video link: https://youtu.be/PobrSpMwKk4)  
+**Key Figures of the 1970s:**
+1. [Kool Herc](https://youtu.be/10C-Q3NIlzU) – credited with extending the break.  
+2. [Afrika Bambaataa](https://youtu.be/9J3lwZjHenA) – spread hip hop culture through the Universal Zulu Nation. 
+3. [Grandmaster Flash](https://youtu.be/PobrSpMwKk4) – innovated DJ techniques like scratching and cutting. 
 
-3. The Old School Era (Early 1980s)  
+### 3. The Old School Era (Early 1980s)  
 
-Run DMC (image link: https://i.imgur.com/e80w9gc.jpg)
+![Run DMC](https://i.imgur.com/e80w9gc.jpg)
 
 As hip hop gained traction, artists began recording tracks commercially.  
-- Rapper’s Delight by the Sugarhill Gang (1979) is widely recognized as the first recorded rap single to reach mainstream audiences. (video link: https://youtu.be/mcCK99wHrk0)  
-- Run-DMC fused rock and rap, creating crossover hits. (video link: https://youtu.be/l-O5IHVhWj0)  
-- LL Cool J and Beastie Boys brought hip hop to MTV audiences. (links: https://youtu.be/vimZj8HW0Kg, https://youtu.be/07Y0cy-nvAg)  
+* Rapper’s Delight by the [Sugarhill Gang](https://youtu.be/mcCK99wHrk0) (1979) is widely recognized as the first recorded rap single to reach mainstream audiences.
+* [Run-DMC](https://youtu.be/l-O5IHVhWj0) fused rock and rap, creating crossover hits. 
+* [LL Cool J](https://youtu.be/vimZj8HW0Kg) and [Beastie Boys](ttps://youtu.be/07Y0cy-nvAg) brought hip hop to MTV audiences.
 
-4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)  
+### 4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)  
 
-Notorious B.I.G. (image link: https://i.imgur.com/aICxYyc.jpg)
+![Notorious B.I.G.](https://i.imgur.com/aICxYyc.jpg)
 
-The Golden Age is often described as the most creative and influential period of hip hop.  
+>"I never sleep, 'cause sleep is the cousin of death." - Nas, N.Y. State of Mind
+
+**The Golden Age** is often described as the most creative and influential period of hip hop.  
 This era emphasized lyrical complexity, innovation in production, and a broad diversity of styles.  
 
-4.1 East Coast Greats  
-- A Tribe Called Quest – jazz-influenced beats, socially conscious lyrics.  
-- The Notorious B.I.G. – storytelling genius, Ready to Die (1994).  
-- Nas – Illmatic (1994), often considered one of the greatest hip hop albums ever.  
+#### 4.1 East Coast Greats  
+- **A Tribe Called Quest** – jazz-influenced beats, socially conscious lyrics.  
+- **The Notorious B.I.G.** – storytelling genius, _Ready to Die_ (1994).  
+- **Nas** – _Illmatic_ (1994), often considered one of the greatest hip hop albums ever.  
 
-4.2 West Coast Pioneers  
-- N.W.A. – brought gangsta rap to the forefront with Straight Outta Compton (1988).  
-- Tupac Shakur (2Pac) – poetic lyricism with political and emotional depth.  
-- Ice Cube and Dr. Dre – pushed West Coast sound into the mainstream.  
+#### 4.2 West Coast Pioneers  
+- **N.W.A.** – brought gangsta rap to the forefront with _Straight Outta Compton_ (1988).  
+- **Tupac Shakur (2Pac)** – poetic lyricism with political and emotional depth.  
+- **Ice Cube and Dr. Dre** – pushed West Coast sound into the mainstream.   
 
-“I never sleep, ’cause sleep is the cousin of death.” – Nas, N.Y. State of Mind  
-
-5. Elements of Style  
+### 5. Elements of Style  
 
 5.1 Lyrical Themes  
 - Social commentary (racism, poverty, politics)  
